@@ -3,3 +3,4 @@ versao 2 do projeto
 versao 3 matematica 
 versao 4 validação de dados
 versão 5 implementando css
+versão 6 adicionando função
