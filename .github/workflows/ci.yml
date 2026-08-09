@@ -1,0 +1,19 @@
+name: Pipeline DevOps CI
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Baixar codigo do repositorio
+      uses: actions/checkout@v4
+
+    - name: Simular etapa de Build
+      run: echo "Compilando e preparando o projeto..."
+
+    - name: Simular etapa de Testes
+      run: echo "Executando testes automatizados... 100% OK!"
