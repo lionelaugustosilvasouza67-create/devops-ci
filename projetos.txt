@@ -6,3 +6,4 @@ versão 5 implementando css
 versão 6 adicionando função
 versão 7 implementando jogo de dados
 versão 9 implementando comentarios
+ versão 10 terminando todos os projetos incluindo o dos dados
