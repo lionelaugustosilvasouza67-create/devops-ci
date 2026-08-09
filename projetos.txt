@@ -5,3 +5,4 @@ versao 4 validação de dados
 versão 5 implementando css
 versão 6 adicionando função
 versão 7 implementando jogo de dados
+versão 9 implementando comentarios
